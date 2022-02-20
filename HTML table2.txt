@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Table Experiment</title>
+    </head>
+    <body>
+        <table border="1" cellspacing=14>
+            <tr><th>NAME</th><th>Roll</th><th>Mark</th><th>Gpa</th></tr>
+            <tr><td>Mokter</td><td>14635</td><td>66</td><td>A-</td></tr>
+       <tr><td>Anup</td><td>14647</td><td>90</td><td>A+</td></tr>
+       <tr><td>Manik</td><td>14617</td><td>77</td><td>A</td></tr>
+       </table>
+    </body>
+</html>
